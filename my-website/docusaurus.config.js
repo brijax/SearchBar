@@ -13,7 +13,6 @@ module.exports = {
     algolia: {
       apiKey: 'a46d2122d86b9db6ee3e505446420136',
       indexName: 'dev_TEST',
-      contextualSearch: true,
       appId: 'CBSRMBIS4E',
     },
     hideableSidebar: true,
